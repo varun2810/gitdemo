@@ -16,7 +16,7 @@ public class NewTest {
 			String title = driver.getTitle();
 			
 			System.out.println(title);
-			Thread.sleep(4000);
+			Thread.sleep(5000);
 		}
 		
 		@BeforeTest
